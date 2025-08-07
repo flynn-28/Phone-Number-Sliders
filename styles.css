@@ -1,0 +1,18 @@
+.sliders {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 40px;
+  padding: 5px;
+  background-color: #f9f9f9;
+  border: 2px solid lightgray;
+  width: 90%;
+}
+
+.slider {
+  width: 95%;
+}
+  
+h1 {
+  text-align: center;
+}
